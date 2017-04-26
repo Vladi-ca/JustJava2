@@ -1,0 +1,40 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="name">Your Name</string>
+
+    <!-- Header text for the list of toppings [CHAR LIMIT=20] -->
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="choc">Chocolate</string>
+    <string name="cocoa">Cocoa</string>
+    <string name="quantity">Quantity</string>
+    <string name="plus">+</string>
+    <string name="two">2</string>
+    <string name="minus">-</string>
+    <string name="order">Order</string>
+
+    <!-- Thank you message for the order summary [CHAR LIMIT=NONE] -->
+    <string name="thank_you">Thank you!</string>
+
+    <!-- Name message for the order summary [CHAR LIMIT=NONE] -->
+    <string name="name_message">Name: <xliff:g id="name_field" example="Vladi">%s</xliff:g></string>
+
+    <!-- Whipped cream message for the order summary [CHAR LIMIT=NONE] -->
+    <string name="add_whipped_cream">Add whipped cream? </string>
+
+    <!-- Whipped cream message for the order summary [CHAR LIMIT=NONE] -->
+    <string name="add_choc">Add chocolate? </string>
+
+    <!-- Whipped cream message for the order summary [CHAR LIMIT=NONE] -->
+    <string name="add_cocoa">Add cocoa? </string>
+
+    <!-- Thank you message for the order summary [CHAR LIMIT=NONE] -->
+    <string name="quantity_message">Quantity: </string>
+
+    <!-- Thank you message for the order summary [CHAR LIMIT=NONE] -->
+    <string name="total_message">Total: $ </string>
+
+
+
+
+</resources>
